@@ -1,1 +1,1 @@
-# digispark-mouse-jiggler
+# Mouse jiggler for Digispark
